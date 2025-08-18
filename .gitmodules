@@ -3,7 +3,7 @@
 	url = https://github.com/gdm257/doom-emacs-config.git
 [submodule "dotfiles/.emacs.d"]
 	path = dotfiles/.emacs.d
-	url = https://github.com/hlissner/doom-emacs
+	url = https://github.com/hlissner/doom-emacs.git
 [submodule "dotfiles/vimfiles"]
 	path = dotfiles/vimfiles
 	url = https://github.com/gdm257/vimfiles.git
