@@ -1,0 +1,32 @@
+# Support environment variables
+# e.g. `MAMBA_ALWAYS_YES` to `always_yes` for mamba/micromamba
+# https://mamba.readthedocs.io/en/latest/user_guide/configuration.html
+# https://conda.io/projects/conda/en/latest/user-guide/configuration/settings.html
+
+# Conda expands environment variables in a subset of config:
+#
+#   allowlist_channels
+#   channel
+#   channel_alias
+#   channels
+#   client_cert
+#   client_cert_key
+#   custom_channels
+#   custom_multichannels
+#   default_channels
+#   envs_dirs
+#   envs_path
+#   migrated_custom_channels
+#   pkgs_dirs
+#   proxy_servers
+#   verify_ssl
+
+envs_dirs:
+  - C:\home\default\.conda\envs
+  - C:\home\default\AppData\Local\conda\conda\envs
+  - C:\home\default\micromamba\envs
+  - C:\home\default\AppData\Roaming\jupyterlab-desktop\envs
+  - ${HOME}/miniconda3/envs
+  - ${HOME}/mambaforge/envs
+channels:
+  - conda-forge

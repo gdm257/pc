@@ -1,0 +1,5 @@
+{
+    "Alt-/": "lua:comment.comment",
+    "Ctrl-Shift-v": "Paste",
+    "CtrlUnderscore": "lua:comment.comment"
+}

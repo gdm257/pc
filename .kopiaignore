@@ -1,0 +1,74 @@
+# ==== Home ====
+**/.local/share/wezterm/gui-sock*
+**/.cache/
+**/.codeium/
+**/.bgmi/bangumi/
+**/.bgmi/tmp/
+**/.emacs.d/.cache/
+**/.emacs.d/.local/
+**/.kube/cache/
+**/.lingma/
+**/scoop/apps/*
+**/scoop/buckets/*
+**/scoop/cache/*
+**/scoop/modules/*
+**/VirtualBox VMs/*
+
+# ==== Libraries ====
+**/WXWork/*/Cache/
+**/HiSuite/ROM/*
+**/MuseScore4/SoundFonts/*
+
+# ==== XDG ====
+**/AppData/Local/activitywatch/activitywatch/Logs/
+**/AppData/Local/activitywatch/activitywatch/Cache/
+**/AppData/Local/BraveSoftware/Brave-Browser/Application/
+**/AppData/Local/BraveSoftware/Brave-Browser/User Data/Default/Service Worker/*
+**/AppData/Local/cache/
+**/AppData/Local/conda/
+**/AppData/Local/D3DSCache/
+**/AppData/Local/DBeaver/
+**/AppData/Local/Docker/
+**/AppData/Local/Docker Desktop Installer/
+**/AppData/Local/Duplicati/
+**/AppData/Local/EevisionDownload/
+**/AppData/Local/EpicGamesLauncher/Saved/webcache*/
+**/AppData/Local/electron/
+**/AppData/Local/electron-builder/
+**/AppData/Local/hatch/Cache/
+**/AppData/Local/hatch/env/
+**/AppData/Local/hatch/pythons/
+**/AppData/Local/nvim-data/
+**/AppData/Local/rancher-desktop/
+**/AppData/Local/restic/
+**/AppData/LocalLow/Temp/
+**/AppData/Roaming/Tencent/WeMeet/Global/
+**/AppData/Roaming/Tencent/WeChat/XPlugin/*
+**/AppData/Roaming/Listary/UserProfile/Cache/
+**/AppData/Roaming/yesplaymusic/Cache/
+**/Typora/Cache/
+**/Typora/Code Cache/
+**/Typora/GPUCache/
+**/Mega Limited/MEGAsync/logs/
+**/Mega Limited/MEGAsync/update/
+**/YACReader/*/Cache/
+**/thprac/crashdump/
+**/PDFelement 7/AutoSave/
+**/PDFelement 7/Log/
+**/Adobe Dreamweaver CC 2018 Portable/Data/
+**/CloudMusic/Netease/CloudMusic/*/
+Ditto.db
+**/Emby/programdata/cache/
+**/Emby Theater/cache/
+FSViewer.db
+**/io.github.clash-verge-rev.clash-verge-rev/logs/*
+**/MeGUI/update_cache/*
+**/obsidian/DawnCache/
+**/Rime/build/
+Everything.db
+**/steamapps/common/
+**/steamapps/downloading/
+**/steamapps/music/
+
+# ==== Whitelist ====
+!**/Roaming/CherryStudio/

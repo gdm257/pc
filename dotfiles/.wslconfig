@@ -1,0 +1,5 @@
+[wsl2]
+localhostForwarding = true
+guiApplications = true
+swap = 0
+nestedVirtualization=  true

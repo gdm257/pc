@@ -1,0 +1,10 @@
+# ==== Unix ====
+{{- if eq .chezmoi.os "windows" -}}
+# Shell Settings
+.zshenv
+.config/zsh
+.config/tmux
+
+# Terminal Settings
+.config/kitty
+{{- end -}}

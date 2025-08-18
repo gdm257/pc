@@ -1,0 +1,9 @@
+[submodule "dotfiles/.doom.d"]
+	path = dotfiles/.doom.d
+	url = https://github.com/gdm257/doom-emacs-config.git
+[submodule "dotfiles/.emacs.d"]
+	path = dotfiles/.emacs.d
+	url = https://github.com/hlissner/doom-emacs
+[submodule "dotfiles/vimfiles"]
+	path = dotfiles/vimfiles
+	url = https://github.com/gdm257/vimfiles.git

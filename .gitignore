@@ -1,0 +1,9 @@
+/*
+!.gitignore
+!/.*
+!/*.*
+!/dotfiles
+!/private
+/dotfiles/.config/argocd
+/dotfiles/.config/bin
+/dotfiles/.config/scoop

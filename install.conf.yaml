@@ -1,0 +1,26 @@
+- link:
+    ~/.config/git-sync: dotfiles/.config/git-sync
+    ~/.config/starship.toml: dotfiles/.config/starship.toml
+    ~/.doom.d: dotfiles/.doom.d
+    ~/.emacs.d/: dotfiles/.emacs.d
+    ~/.flexget: dotfiles/.flexget
+    ~/.local/share/chezmoi: dotfiles/.local/share/chezmoi
+    ~/.ssh: dotfiles/.ssh
+    ~/.bash_profile: dotfiles/.bash_profile
+    ~/.bashrc: dotfiles/.bashrc
+    ~/.profile: dotfiles/.profile
+    ~/.condarc: dotfiles/.condarc
+    ~/.gitconfig: dotfiles/.gitconfig
+    ~/.wslconfig: dotfiles/.wslconfig
+    ~/massCode: dotfiles/massCode
+    ~/taskfile.yaml: dotfiles/taskfile.yaml
+    ~/taskfile.d: dotfiles/taskfile.d
+    ~/vimfiles: dotfiles/vimfiles
+- link:
+    ~/AppData/Local/Magpie: dotfiles/AppData/Local/Magpie
+    ~/AppData/Local/nvim: dotfiles/AppData/Local/nvim
+    ~/AppData/Local/pdm/pdm/config.toml: dotfiles/AppData/Local/pdm/pdm/config.toml
+    ~/AppData/Roaming/helm: dotfiles/AppData/Roaming/helm
+    ~/AppData/Roaming/kanata-tray: dotfiles/AppData/Roaming/kanata-tray
+    ~/.config/kanata: dotfiles/.config/kanata
+    ~/AppData/Roaming/MuseScore: dotfiles/AppData/Roaming/MuseScore
