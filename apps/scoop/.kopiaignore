@@ -1,0 +1,25 @@
+# ==== persist ====
+**/catsxp/Cache/*
+Ditto.db
+**/Emby/programdata/cache/
+**/emby/programdata/cache/
+FSViewer.db
+**/io.github.clash-verge-rev.clash-verge-rev/logs/*
+**/persist/krew/
+**/MPV/portable_config/*cache/
+**/mpvnet/portable_config/*cache/
+**/MeGUI/update_cache/*
+**/nodejs-lts/
+Everything.db
+**/ppsspp/memstick/PSP/GAME/*
+**/steamapps/common/
+**/steamapps/downloading/
+**/steamapps/music/
+**/tealdear/cache/*
+**/telegram/tdata/user_data*/
+**/virtualbox-with-extension-pack-np/
+**/persist/volta/
+**/vscode/data/
+**/vscodium/data/
+**/winfsp-np/
+**/zeal/docsets/

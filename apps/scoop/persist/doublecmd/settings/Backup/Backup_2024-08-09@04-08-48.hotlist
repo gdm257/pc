@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doublecmd>
+  <DirectoryHotList>
+    <HotDir Name="C:DRIVE" Path="C:\"/>
+    <HotDir Name="D:DRIVE" Path="D:\"/>
+    <HotDir Name="E:DRIVE" Path="E:\"/>
+    <HotDir Name="S:DRIVE" Path="S:\"/>
+    <HotDir Name="F:DRIVE" Path="F:\"/>
+    <HotDir Name="G:DRIVE" Path="G:\"/>
+    <HotDir Name="WSL" Path="\\wsl.localhost"/>
+    <HotDir Name="-LocalAppData" Path=""/>
+    <HotDir Name="常用文件夹名称" Path="常用文件夹路径"/>
+    <HotDir Name="--" Path=""/>
+    <HotDir Name="-AppData" Path=""/>
+    <HotDir Name="Documents" Path="D:\.home\Documents"/>
+    <HotDir Name="bin" Path="D:\.home\.local\bin"/>
+    <HotDir Name="lib" Path="D:\.home\.local\lib"/>
+    <HotDir Name="XDG Data" Path="D:\.home\.local\share"/>
+    <HotDir Name="-Game" Path=""/>
+    <HotDir Name="Genshin" Path="D:\.home\AppData\LocalLow\miHoYo\原神"/>
+    <HotDir Name="osu lazer" Path="D:\.home\AppData\Roaming\osu"/>
+    <HotDir Name="osu! stable" Path="D:\.home\AppData\Local\osu!"/>
+    <HotDir Name="DARK SOULS REMASTERED" Path="D:\.home\Documents\NBGI\DARK SOULS REMASTERED"/>
+    <HotDir Name="DARK SOULS REMASTERED Account" Path="D:\.home\Documents\FromSoftware\DARK SOULS REMASTERED"/>
+    <HotDir Name="孤独に効く百合" Path="D:\.home\Documents\夜のひつじ\孤独に効く百合"/>
+    <HotDir Name="俺の妹がこんなに乱れるわけがない" Path="D:\.home\Documents\俺の妹がこんなに乱れるわけがない SaveData"/>
+    <HotDir Name="彼女と俺と恋人と。" Path="D:\.home\Saved Games\WillPlus\彼女と俺と恋人と。"/>
+    <HotDir Name="--" Path=""/>
+    <HotDir Name="-DevOps" Path=""/>
+    <HotDir Name="chat2db" Path="D:\.home\AppData\Roaming\chat2db"/>
+    <HotDir Name="chat2db" Path="D:\.home\.chat2db"/>
+    <HotDir Name="conda" Path="D:\.home\.conda"/>
+    <HotDir Name="conda" Path="C:\Users\demo\AppData\Local\conda\conda"/>
+    <HotDir Name="Git Credential Manager" Path="C:\Users\demo\AppData\Local\Microsoft\Credentials"/>
+    <HotDir Name="hatch" Path="D:\.home\AppData\Local\hatch"/>
+    <HotDir Name="Jupyter" Path="D:\.home\.jupyter"/>
+    <HotDir Name="jupyterlab-desktop" Path="D:\.home\AppData\Roaming\jupyterlab-desktop\envs"/>
+    <HotDir Name="mambaforge" Path="C:\Users\demo\mambaforge\envs"/>
+    <HotDir Name="micromamba" Path="C:\Users\demo\micromamba\envs"/>
+    <HotDir Name="miniconda" Path="C:\Users\demo\miniconda3\envs"/>
+    <HotDir Name="pdm" Path="D:\.home\AppData\Local\pdm\pdm"/>
+    <HotDir Name="pipx" Path="D:\.home\.local\pipx"/>
+    <HotDir Name="pyapp" Path="D:\.home\AppData\Local\pyapp"/>
+    <HotDir Name="ptpython" Path="D:\.home\AppData\Local\prompt_toolkit\ptpython"/>
+    <HotDir Name="Qt Designer" Path="D:\.home\.designer"/>
+    <HotDir Name="version manager" Path="D:\.home\.vm"/>
+    <HotDir Name="version fox" Path="D:\.home\.version-fox"/>
+    <HotDir Name="vfox global" Path="D:\.home\.version-fox\shims"/>
+    <HotDir Name="xpipe" Path="D:\.home\.xpipe"/>
+    <HotDir Name="--" Path=""/>
+    <HotDir Name="-Download" Path=""/>
+    <HotDir Name="archived" Path="D:\.home\.local\state\archived"/>
+    <HotDir Name="choco" Path="C:\ProgramData\chocolatey\lib"/>
+    <HotDir Name="Flexget" Path="D:\.home\.flexget"/>
+    <HotDir Name="UniGetUI" Path="D:\.home\Documents\UniGetUI"/>
+    <HotDir Name="--" Path=""/>
+    <HotDir Name="-File" Path=""/>
+    <HotDir Name="bitwarden" Path="D:\apps\scoop\apps\bitwarden\current\bitwarden-appdata"/>
+    <HotDir Name="config" Path="D:\.home\.config"/>
+    <HotDir Name="OpenSC PKCS#11 Library" Path="C:\Program Files\OpenSC Project\PKCS11-Spy"/>
+    <HotDir Name="VeraCrypt" Path="C:\Users\demo\AppData\Roaming\VeraCrypt"/>
+    <HotDir Name="--" Path=""/>
+    <HotDir Name="-Network" Path=""/>
+    <HotDir Name="AnyDesk" Path="D:\.home\AppData\Roaming\AnyDesk"/>
+    <HotDir Name="aTrust" Path="D:\.home\AppData\Roaming\Sangfor"/>
+    <HotDir Name="Brave" Path="D:\.home\AppData\Local\BraveSoftware\Brave-Browser"/>
+    <HotDir Name="bgmi" Path="D:\.home\.bgmi"/>
+    <HotDir Name="clash-verge-rev" Path="D:\.home\AppData\Roaming\io.github.clash-verge-rev.clash-verge-rev"/>
+    <HotDir Name="clash-verge-rev" Path="C:\Users\demo\AppData\Roaming\io.github.clash-verge-rev.clash-verge-rev"/>
+    <HotDir Name="ChatGPT" Path="D:\.home\.chatgpt" Target="E:\$RECYCLE.BIN"/>
+    <HotDir Name="Clash For Windows" Path="D:\.home\AppData\Roaming\clash_win"/>
+    <HotDir Name="Edge" Path="D:\.home\AppData\Local\Microsoft\Edge"/>
+    <HotDir Name="Parsec" Path="D:\.home\AppData\Roaming\Parsec"/>
+    <HotDir Name="rclone" Path="D:\.home\.config\rclone"/>
+    <HotDir Name="Robo 3T" Path="D:\.home\.3T"/>
+    <HotDir Name="Redisinsight" Path="D:\.home\.redisinsight-preview"/>
+    <HotDir Name="sshd" Path="C:\ProgramData\ssh"/>
+    <HotDir Name="--" Path=""/>
+    <HotDir Name="-Audio" Path=""/>
+    <HotDir Name="AIMP Internal Playlists" Path="D:\apps\scoop\apps\aimp\current\Profile\PLS"/>
+    <HotDir Name="EveryOnePiano" Path="D:\apps\scoop\apps\everyone-piano\current\app\Music"/>
+    <HotDir Name="Helio" Path="D:\.home\AppData\Roaming\Helio"/>
+    <HotDir Name="hydrogen" Path="C:\Users\demo\.hydrogen"/>
+    <HotDir Name="Kontakt" Path="D:\.home\AppData\Roaming\Native Instruments\Native Access"/>
+    <HotDir Name="Kontakt 7" Path="C:\Users\demo\AppData\Local\Native Instruments\Kontakt 7"/>
+    <HotDir Name="MuseHub" Path="C:\ProgramData\MuseHub"/>
+    <HotDir Name="MuseScore4" Path="D:\.home\Documents\MuseScore4"/>
+    <HotDir Name="OmniMIDI" Path="D:\.home\AppData\Roaming\Common SoundFonts"/>
+    <HotDir Name="Viena" Path="D:\.home\AppData\Roaming\SynthFont"/>
+    <HotDir Name="--" Path=""/>
+    <HotDir Name="-Text" Path=""/>
+    <HotDir Name="Emacs" Path="D:\.home\.emacs.d"/>
+    <HotDir Name="espanso" Path="D:\.home\AppData\Roaming\espanso"/>
+    <HotDir Name="eudic" Path="D:\.home\AppData\Roaming\Francochinois\eudic"/>
+    <HotDir Name="Fonts" Path="C:\Users\demo\AppData\Local\Microsoft\Windows\Fonts"/>
+    <HotDir Name="gpg" Path="D:\.home\AppData\Roaming\gnupg"/>
+    <HotDir Name="gita" Path="D:\.home\.config\gita"/>
+    <HotDir Name="iSlide" Path="D:\.home\AppData\Roaming\iSlide"/>
+    <HotDir Name="Jisupdf" Path="D:\.home\AppData\Roaming\Jisupdf"/>
+    <HotDir Name="micro" Path="D:\.home\.config\micro"/>
+    <HotDir Name="Notepad--" Path="D:\.home\AppData\Roaming\notepad"/>
+    <HotDir Name="Obsidian" Path="D:\.home\AppData\Roaming\obsidian"/>
+    <HotDir Name="Rime" Path="D:\.home\AppData\Roaming\Rime"/>
+    <HotDir Name="VisualStudio" Path="D:\.home\AppData\Roaming\Microsoft\VisualStudio"/>
+    <HotDir Name="VisualStudio Settings" Path="D:\.home\AppData\Local\Microsoft\VisualStudio\17.0_55ac80b7\Settings"/>
+    <HotDir Name="--" Path=""/>
+    <HotDir Name="-Picture" Path=""/>
+    <HotDir Name="Allusion" Path="D:\.home\AppData\Roaming\Allusion"/>
+    <HotDir Name="Billfish" Path="D:\.home\AppData\Roaming\Billfish"/>
+    <HotDir Name="白描" Path="D:\.home\AppData\Roaming\com.uzero.baimiaowin"/>
+    <HotDir Name="--" Path=""/>
+    <HotDir Name="-Shell" Path=""/>
+    <HotDir Name="clink" Path="D:\.home\AppData\Local\clink"/>
+    <HotDir Name="chezmoi" Path="D:\.home\.local\share\chezmoi"/>
+    <HotDir Name="envelope" Path="D:\.home\.config"/>
+    <HotDir Name="FirPE" Path="E:\FirPE"/>
+    <HotDir Name="Mica For Everyone" Path="D:\.home\AppData\Local\Mica For Everyone"/>
+    <HotDir Name="navi" Path="D:\.home\AppData\Roaming\navi"/>
+    <HotDir Name="PowerShell" Path="D:\.home\Documents\PowerShell"/>
+    <HotDir Name="PowerShell" Path="C:\Users\demo\AppData\Roaming\Microsoft\Windows\PowerShell"/>
+    <HotDir Name="RustDesk" Path="C:\Users\demo\AppData\Roaming\RustDesk"/>
+    <HotDir Name="ssh" Path="C:\Users\demo\.ssh"/>
+    <HotDir Name="SSH Keys" Path="D:\.home\Documents\OpenSSH\keys.d"/>
+    <HotDir Name="starship" Path="D:\.home\.config"/>
+    <HotDir Name="uTools" Path="D:\.home\AppData\Roaming\uTools"/>
+    <HotDir Name="Ventoy Distro" Path="E:\distro"/>
+    <HotDir Name="Windows Terminal" Path="D:\.home\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState"/>
+    <HotDir Name="WindowsPowerShell" Path="D:\.home\Documents\WindowsPowerShell"/>
+    <HotDir Name="yazi" Path="D:\.home\AppData\Roaming\yazi"/>
+    <HotDir Name="--" Path=""/>
+    <HotDir Name="-Layer" Path=""/>
+    <HotDir Name="VirtualBox" Path="D:\.home\.VirtualBox"/>
+    <HotDir Name="--" Path=""/>
+    <HotDir Name="--" Path=""/>
+  </DirectoryHotList>
+</doublecmd>

@@ -1,0 +1,5 @@
+$RECYCLE.BIN
+System Volume Information
+ntuser.*
+pagefile.sys
+swapfile.sys

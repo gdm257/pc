@@ -1,0 +1,46 @@
+--------------- 15-10-2024, 00:32:47 ---------------
+| DC v1.1.16 gamma Rev. 520 -- x86_64-Win64-win32/win64
+| Windows 10 Home 22H2 x86_64 | PID 23560
+Unhandled exception: EExternalException: External exception EEDFADE
+  Stack trace:
+  $00007FFB35D5B699 in C:\Windows\System32\KERNELBASE.dll
+  $000000001083BA76 in D:\apps\scoop\apps\doublecmd\current\settings\plugins\wlx\cadview_x64\CADView.wlx64
+  $000000001083BAF8 in D:\apps\scoop\apps\doublecmd\current\settings\plugins\wlx\cadview_x64\CADView.wlx64
+  $0000000010EDA947 in D:\apps\scoop\apps\doublecmd\current\settings\plugins\wlx\cadview_x64\CADView.wlx64
+  $0000000010F878B7 in D:\apps\scoop\apps\doublecmd\current\settings\plugins\wlx\cadview_x64\CADView.wlx64
+  $00000000108AFB92 in D:\apps\scoop\apps\doublecmd\current\settings\plugins\wlx\cadview_x64\CADView.wlx64
+  $00000000108EA540 in D:\apps\scoop\apps\doublecmd\current\settings\plugins\wlx\cadview_x64\CADView.wlx64
+  $00000000108EBB91 in D:\apps\scoop\apps\doublecmd\current\settings\plugins\wlx\cadview_x64\CADView.wlx64
+  $0000000010F86D56 in D:\apps\scoop\apps\doublecmd\current\settings\plugins\wlx\cadview_x64\CADView.wlx64
+  $0000000010F87F92 in D:\apps\scoop\apps\doublecmd\current\settings\plugins\wlx\cadview_x64\CADView.wlx64
+  $00007FF74DF8AC8A line 364, column 63 of uwlxmodule.pas in D:\apps\scoop\apps\doublecmd\current\doublecmd.exe
+  $00007FF74E0DA1DC line 2893, column 40 of fviewer.pas in D:\apps\scoop\apps\doublecmd\current\doublecmd.exe
+  $00007FF74E0D509C line 1538, column 12 of fviewer.pas in D:\apps\scoop\apps\doublecmd\current\doublecmd.exe
+  $00007FF74E0D17F9 line 778, column 13 of fviewer.pas in D:\apps\scoop\apps\doublecmd\current\doublecmd.exe
+  $00007FF74E0D1E49 line 862, column 36 of fviewer.pas in D:\apps\scoop\apps\doublecmd\current\doublecmd.exe
+  $00007FF74E0D0C5A line 590, column 3 of fviewer.pas in D:\apps\scoop\apps\doublecmd\current\doublecmd.exe
+  $00007FF74E0D0B15 line 562, column 3 of fviewer.pas in D:\apps\scoop\apps\doublecmd\current\doublecmd.exe
+
+--------------- 27-10-2024, 22:21:03 ---------------
+| DC v1.1.16 gamma Rev. 520 -- x86_64-Win64-win32/win64
+| Windows 10 Home 22H2 x86_64 | PID 21016
+Unhandled exception: EExternalException: External exception EEDFADE
+  Stack trace:
+  $00007FFD970DB699 in C:\Windows\System32\KERNELBASE.dll
+  $000000000C46BA76 in D:\apps\scoop\apps\doublecmd\current\settings\plugins\wlx\cadview_x64\CADView.wlx64
+  $000000000C46BAF8 in D:\apps\scoop\apps\doublecmd\current\settings\plugins\wlx\cadview_x64\CADView.wlx64
+  $000000000CB0A947 in D:\apps\scoop\apps\doublecmd\current\settings\plugins\wlx\cadview_x64\CADView.wlx64
+  $000000000CBB78B7 in D:\apps\scoop\apps\doublecmd\current\settings\plugins\wlx\cadview_x64\CADView.wlx64
+  $000000000C4DFB92 in D:\apps\scoop\apps\doublecmd\current\settings\plugins\wlx\cadview_x64\CADView.wlx64
+  $000000000C51A540 in D:\apps\scoop\apps\doublecmd\current\settings\plugins\wlx\cadview_x64\CADView.wlx64
+  $000000000C51BB91 in D:\apps\scoop\apps\doublecmd\current\settings\plugins\wlx\cadview_x64\CADView.wlx64
+  $000000000CBB6D56 in D:\apps\scoop\apps\doublecmd\current\settings\plugins\wlx\cadview_x64\CADView.wlx64
+  $000000000CBB7F92 in D:\apps\scoop\apps\doublecmd\current\settings\plugins\wlx\cadview_x64\CADView.wlx64
+  $00007FF69552AC8A line 364, column 63 of uwlxmodule.pas in D:\apps\scoop\apps\doublecmd\current\doublecmd.exe
+  $00007FF69567A1DC line 2893, column 40 of fviewer.pas in D:\apps\scoop\apps\doublecmd\current\doublecmd.exe
+  $00007FF69567509C line 1538, column 12 of fviewer.pas in D:\apps\scoop\apps\doublecmd\current\doublecmd.exe
+  $00007FF6956717F9 line 778, column 13 of fviewer.pas in D:\apps\scoop\apps\doublecmd\current\doublecmd.exe
+  $00007FF695671E49 line 862, column 36 of fviewer.pas in D:\apps\scoop\apps\doublecmd\current\doublecmd.exe
+  $00007FF695670C5A line 590, column 3 of fviewer.pas in D:\apps\scoop\apps\doublecmd\current\doublecmd.exe
+  $00007FF695670B15 line 562, column 3 of fviewer.pas in D:\apps\scoop\apps\doublecmd\current\doublecmd.exe
+
