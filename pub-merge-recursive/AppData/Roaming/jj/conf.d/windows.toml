@@ -3,6 +3,7 @@
 --when.repositories = [
   'D:/home/libraries/Documents/repos/git',
   'D:/home/apps/scoop/buckets',
+  'D:/home',
 ]
 
 [ui]
