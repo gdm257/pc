@@ -1,0 +1,19 @@
+[display]
+theme = "system"
+reference_highlighting = true
+
+[formatting]
+line_length = 120
+
+[package_management]
+manager = "uv"
+
+[runtime]
+auto_instantiate = false
+auto_reload = "lazy"
+pythonpath = ["src"]
+dotenv = [".env"]
+
+[save]
+autosave = "off" # after_delay, off
+format_on_save = true
