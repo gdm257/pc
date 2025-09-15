@@ -8,6 +8,7 @@
 **/.emacs.d/.local/
 **/.kube/cache/
 **/.lingma/
+**/Games/Heroic/*
 **/scoop/apps/*
 **/scoop/buckets/*
 **/scoop/cache/*
