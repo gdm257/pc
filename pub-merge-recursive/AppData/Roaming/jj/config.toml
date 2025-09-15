@@ -6,7 +6,7 @@ private-commits = '''description(glob:'private:*') | description(glob:'local:*')
 [ui]
 show-cryptographic-signatures = true
 editor = "vim"
-diff-editor = "vimdiff" # out of the box: kdiff3 meld mergiraf smerge vimdiff vscode vscodium
+# diff-editor = "vimdiff" # out of the box: kdiff3 meld mergiraf smerge vimdiff vscode vscodium
 # diff-formatter = ":git" # required by `delta`
 # pager = ["delta", "--pager", "less -FRX"] # Keeps output from the terminal after closing the pager
 

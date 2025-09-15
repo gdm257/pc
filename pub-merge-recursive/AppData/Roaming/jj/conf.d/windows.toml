@@ -6,9 +6,6 @@
   'D:/home',
 ]
 
-[ui]
-diff-editor = "vimdiff"
-
 [user]
 name = "gdm257"
 email = "gdm@disroot.org"
