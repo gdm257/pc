@@ -1,0 +1,81 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "model": "aichat/sophnet:Qwen3-Coder",
+  "small_model": "aichat/aihubmix:Qwen3-Next-80B-A3B-Instruct",
+  "provider": {
+    "cherry-studio": {
+      "npm": "@ai-sdk/openai-compatible",
+      "name": "Cherry Studio",
+      "options": {
+        "baseURL": "http://localhost:23333/v1",
+        "apiKey": "cs-sk-012654e0-2175-4d1d-be4b-64fa057ac967",
+      },
+      "models": {
+      }
+    },
+    "aichat": {
+      "npm": "@ai-sdk/openai-compatible",
+      "name": "aichat",
+      "options": {
+        "baseURL": "http://localhost:8000/v1",
+        "apiKey": "foo",
+      },
+      "models": {
+        "default": {
+          "name": "default",
+        },
+        "sophnet:Qwen3-Coder": {
+          "name": "Qwen3-Coder",
+        },
+        "sophnet:Qwen3-Next-80B-A3B-Instruct": {
+          "name": "Qwen3-Next-80B-A3B-Instruct",
+        },
+        "aihubmix:Qwen3-Coder": {
+          "name": "Qwen3-Coder",
+        },
+        "aihubmix:Qwen3-Next-80B-A3B-Instruct": {
+          "name": "Qwen3-Next-80B-A3B-Instruct",
+        },
+        "aihubmix:grok-code-fast-1": {
+          "name": "grok-code-fast-1",
+        },
+        "aihubmix:gemini-2.5-pro": {
+          "name": "gemini-2.5-pro",
+        },
+        "aihubmix:claude-sonnet-4-5": {
+          "name": "claude-sonnet-4-5",
+        },
+      },
+    },
+  },
+  "mcp": {},
+  "permission": {
+    "edit": "allow",
+    "bash": "ask"
+  },
+  "instructions": ["AGENTS.md", "CONTRIBUTING.md", "docs/guidelines.md", ".cursor/rules/*.md"],
+  "agent": {
+    "code-reviewer": {
+      "description": "Reviews code for best practices and potential issues",
+      "model": "anthropic/claude-sonnet-4-20250514",
+      "prompt": "You are a code reviewer. Focus on security, performance, and maintainability.",
+      "tools": {
+        // Disable file modification tools for review-only agent
+        "write": false,
+        "edit": false,
+      },
+    },
+  },
+  "command": {
+    "component": {
+      "template": "Create a new React component named $ARGUMENTS with TypeScript support.\nInclude proper typing and basic structure.",
+      "description": "Create a new component",
+    },
+    "test": {
+      "template": "Run the full test suite with coverage report and show any failures.\nFocus on the failing tests and suggest fixes.",
+      "description": "Run tests with coverage",
+      "agent": "build",
+      "model": "anthropic/claude-3-5-sonnet-20241022",
+    },
+  },
+}
