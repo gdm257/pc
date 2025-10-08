@@ -8,6 +8,13 @@
 **/.emacs.d/.local/
 **/.kube/cache/
 **/.lingma/
+**/.marscode/.ckg/
+**/.marscode/.ripgrep/
+**/.marscode/ai-chat/binary/
+**/.marscode/ai-chat/logs/
+**/.marscode/logs/
+**/.qwen/tmp/
+**/.qwen/installation_id
 **/Games/Heroic/*
 **/scoop/apps/*
 **/scoop/buckets/*
@@ -43,6 +50,7 @@
 **/AppData/Local/rancher-desktop/
 **/AppData/Local/restic/
 **/AppData/LocalLow/Temp/
+**/AppData/Roaming/itch/apps/
 **/AppData/Roaming/Tencent/WeMeet/Global/
 **/AppData/Roaming/Tencent/WeChat/XPlugin/*
 **/AppData/Roaming/Listary/UserProfile/Cache/

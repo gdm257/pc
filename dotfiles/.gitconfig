@@ -79,4 +79,4 @@
 	helper = wincred
 	helper = oauth
 [credential "helperselector"]
-	selected = <no helper>
+	selected = oauth
