@@ -32,6 +32,14 @@
             "keysToSend": "{PgDn}"
           }
         ],
+        "*2": [
+          {
+            "windowGroupID": 0,
+            "actionTypeID": 7,
+            "comment": "label:70",
+            "actionValueID": 28
+          }
+        ],
         "*3": [
           {
             "windowGroupID": 0,
@@ -1052,6 +1060,14 @@
             "actionTypeID": 6,
             "comment": "PageDown",
             "keysToSend": "{blind}{PgDwon}"
+          }
+        ],
+        "*2": [
+          {
+            "windowGroupID": 0,
+            "actionTypeID": 7,
+            "comment": "label:70",
+            "actionValueID": 28
           }
         ],
         "*3": [
