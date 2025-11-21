@@ -108,7 +108,7 @@ tasks:
             # - fnm
             # - nvm
             # - yarn pnpm
-            - php74 composer
+            - php74
             # - php74-xdebug
             - composer
             - jbang
@@ -295,6 +295,8 @@ tasks:
             - wingetcreate
             # - wingetui
             - UniGetUI
+            - main/cargo-binstall
+            - cargo-update
             - winget
             # - winget-preview
             - pkgx
