@@ -1,0 +1,12 @@
+- plugins:
+    - dotbot-plugins/dotbot-scoop/scoop.py
+- scoop:
+    buckets:
+      - name: apps
+        repo: https://github.com/kkzzhizhou/scoop-apps
+      - name: gdm257
+        repo: https://github.com/gdm257/scoop-257
+      - name: SM
+        repo: https://github.com/okibcn/ScoopMaster
+    apps:
+      - uv
