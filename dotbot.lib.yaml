@@ -1,0 +1,7 @@
+- defaults:
+    link:
+      type: symlink
+      create: true
+      glob: true
+- link: {force: true, "~/": libraries/*}
+- link: {force: true, "~/": libraries/.*}

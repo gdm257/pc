@@ -1,17 +1,3 @@
-- plugins:
-    - dotbot-plugins/dotbot-apt/apt.py
-    - dotbot-plugins/dotbot-crontab/crontab.py
-    - dotbot-plugins/dotbot-dnf/dnf.py
-    - dotbot-plugins/dotbot-flatpak/flatpak.py
-    - dotbot-plugins/dotbot-golang/go.py
-    - dotbot-plugins/dotbot-includes/includes.py
-    - dotbot-plugins/dotbot-nix-env/nixenv.py
-    - dotbot-plugins/dotbot-pip/pip.py
-    - dotbot-plugins/dotbot-rust/rust.py
-    - dotbot-plugins/dotbot-scoop/scoop.py
-    - dotbot-plugins/dotbot-sops/sops.py
-    - dotbot-plugins/dotbot-windows/dotbot_windows.py
-    - dotbot-plugins/dotbot-winget/winget.py
 - defaults:
     link:
       type: symlink
@@ -21,8 +7,6 @@
 - link: {"~/": apps/.*}
 - link: {"~/": dotfiles/*}
 - link: {"~/": dotfiles/.*}
-- link: {"~/": libraries/*}
-- link: {"~/": libraries/.*}
 - link: {"~/": private/*}
 - link: {"~/": private/.*}
 - link: {"~/": state/*}
@@ -33,7 +17,11 @@
 - link: {"~/AppData/Local/": pub-merge-recursive/AppData/Local/.*}
 - link: {"~/AppData/LocalLow/": pub-merge-recursive/AppData/LocalLow/*}
 - link: {"~/AppData/LocalLow/": pub-merge-recursive/AppData/LocalLow/.*}
+- link: {"~/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/": pub-merge-recursive/Programs/*}
 - link:
     "~/AppData/Roaming/Microsoft/Windows/PowerShell/PSReadLine/ConsoleHost_history.txt":
       path: libraries/Documents/PowerShell/ConsoleHost_history.txt
       if: python -c "import pathlib, sys; sys.exit(0) if pathlib.Path(r'C:\Windows\System32').is_dir() else sys.exit(1)"
+- create:
+    ~/.ssh:
+      mode: 0700
