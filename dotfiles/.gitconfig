@@ -73,10 +73,3 @@
 	lowSpeedLimit = 1000
 	lowSpeedTime = 60
 	postBuffer = 524288000
-[credential "https://dev.azure.com"]
-	useHttpPath = true
-[credential]
-	helper = wincred
-	helper = oauth
-[credential "helperselector"]
-	selected = oauth
