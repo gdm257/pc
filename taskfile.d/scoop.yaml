@@ -867,9 +867,9 @@ tasks:
             # - ipscan
             # - shadowsocks-uri-generator
             # - quicksetdns
-            - apache
-            - nginx
-            - caddy
+            # - apache
+            # - nginx
+            # - caddy
             # - xcaddy
             # - clash
             # - mihomo
@@ -1095,7 +1095,7 @@ tasks:
             - gdm257/mykeymap-beta
             # - komokana
             - gdm257/dotenvx
-            - psfzf
+            # - psfzf
             - starship
             # - oh-my-posh
             # - genact
@@ -1332,6 +1332,7 @@ tasks:
             - HeroicGameLauncher-Portable
             # - EpicGamesLauncher-Portable
             # - GOGGalaxy-Portable
+            - gog-galaxy
             - itch
             - watt-toolkit
             # - snap-hutao

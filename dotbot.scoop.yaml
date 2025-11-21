@@ -1,5 +1,8 @@
 - plugins:
     - dotbot-plugins/dotbot-scoop/scoop.py
+- create:
+    - C:/ProgramData/scoop/shims
+    - ~/Documents/WindowsPowerShell/Modules
 - scoop:
     buckets:
       - name: apps
@@ -10,3 +13,4 @@
         repo: https://github.com/okibcn/ScoopMaster
     apps:
       - uv
+      - bun

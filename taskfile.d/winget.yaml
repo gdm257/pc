@@ -174,7 +174,7 @@ tasks:
             # - Tencent.Yuanbao
             - Eusoft.Eudic
             - Bandisoft.Honeyview
-            - GOG.Galaxy
+            # - GOG.Galaxy
             - Canva.Affinity
 
   install:bulk:
