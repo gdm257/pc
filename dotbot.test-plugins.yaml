@@ -1,0 +1,14 @@
+- plugins:
+    - dotbot-plugins/dotbot-apt/apt.py
+    - dotbot-plugins/dotbot-crontab/crontab.py
+    - dotbot-plugins/dotbot-dnf/dnf.py
+    - dotbot-plugins/dotbot-flatpak/flatpak.py
+    - dotbot-plugins/dotbot-golang/go.py
+    - dotbot-plugins/dotbot-includes/includes.py
+    - dotbot-plugins/dotbot-nix-env/nixenv.py
+    - dotbot-plugins/dotbot-pip/pip.py
+    - dotbot-plugins/dotbot-rust/rust.py
+    - dotbot-plugins/dotbot-scoop/scoop.py
+    - dotbot-plugins/dotbot-sops/sops.py
+    - dotbot-plugins/dotbot-windows/dotbot_windows.py
+    - dotbot-plugins/dotbot-winget/winget.py
