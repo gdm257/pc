@@ -606,6 +606,8 @@
     <HotDir Name="Git Credential Manager" Path="C:\home\default\AppData\Local\Microsoft\Credentials"/>
     <HotDir Name="git-sync" Path="C:\home\default\git-backups"/>
     <HotDir Name="hatch" Path="C:\home\default\AppData\Local\hatch"/>
+    <HotDir Name="home" Path="C:\Users\demo"/>
+    <HotDir Name="jj" Path="C:\Users\demo\AppData\Roaming\jj\"/>
     <HotDir Name="Jupyter" Path="C:\home\default\.jupyter"/>
     <HotDir Name="jupyterlab-desktop" Path="C:\home\default\AppData\Roaming\jupyterlab-desktop\envs"/>
     <HotDir Name="k8s-kubectl" Path="C:\home\default\.kube"/>
