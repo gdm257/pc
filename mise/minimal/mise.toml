@@ -1,0 +1,6 @@
+[tools]
+bun = "latest"
+task = "latest"
+uv = "latest"
+yazi = "latest"
+zellij = "latest"
