@@ -26,6 +26,7 @@ tasks:
             - JRSoftware.InnoSetup
             # - Espanso.Espanso
             # - SublimeHQ.SublimeText.3
+            - ZedIndustries.Zed
             # - ByteDance.Trae
             - 115.115Chrome
             # - Ollama.Ollama

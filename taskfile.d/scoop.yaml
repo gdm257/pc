@@ -94,7 +94,8 @@ tasks:
             - wixtoolset
             # - dark
             # - vfox
-            - main/pixi
+            - main/mise
+            # - main/pixi
             # - python27 python37 python38 python39 python310 python311 micromamba_ShuguangSun micromamba
             # - rye
             - uv
@@ -171,7 +172,7 @@ tasks:
             # - trae-cn
             # - trae
             # - cursor
-            - opencode
+            # - opencode
             # - crush
             # - codex
             - vim
@@ -399,9 +400,9 @@ tasks:
             # - spacesniffer
             # - squirreldisk
             # - alldup
-            - restic
-            - resticprofile
-            - restic-browser
+            # - restic
+            # - resticprofile
+            # - restic-browser
             # - backrest
             # - redu
             # - duplicati
@@ -485,7 +486,7 @@ tasks:
             # - miller
             # - pup
             - pandoc
-            - tailspin
+            # - tailspin
             - sttr
             - hashcat
             - john-the-ripper
@@ -517,7 +518,7 @@ tasks:
             # - imewlconverter
             - zeal
             # - zed
-            - zed-opengl
+            # - zed-opengl
             - notepad4
             # - notepad--
             # - notepadnext
@@ -551,8 +552,8 @@ tasks:
             # - keepass-plugin-keepasshttp
             # - keepass-plugin-keepassnatmsg
             # - keepass-plugin-keeagent
-            - bitwarden
-            - bitwarden-cli
+            # - bitwarden
+            # - bitwarden-cli
             # - authme
             # - infisical
             # - mendeley mendeley-desktop
@@ -567,8 +568,7 @@ tasks:
             # - pdf-guru
             # - calibre-web
             # - calibre
-            # - goldendict
-            - goldendict-ng
+            # - goldendict-ng
             - rssguard
             # - fluent-reader
             # - logdy
@@ -585,6 +585,7 @@ tasks:
             - exiftool
             - jexiftoolgui
             # - honeyview
+            - picview
             - fsviewer
             # - shutter-image-browser
             - gimp
@@ -869,6 +870,7 @@ tasks:
             # - ipscan
             # - shadowsocks-uri-generator
             # - quicksetdns
+            - DNSControlCLI-Portable
             # - apache
             # - nginx
             # - caddy
@@ -971,6 +973,7 @@ tasks:
             # - tailscale
             - naiveproxy
             - traefik
+            - gdm257/zoraxy
             # - nekoray
             # - sing-box
             # - hysteria
@@ -990,7 +993,7 @@ tasks:
             # - pidgin
             # - chatbox
             # - ChatALL-Portable
-            - aichat
+            # - aichat
             # - mcp-linker
             - rivet
             # - tutanota
@@ -1066,7 +1069,7 @@ tasks:
           APPS:
             - windows-terminal
             - wezterm
-            - ttyd
+            # - ttyd
             # - cmder-full
             # - waveterm
             # - xpipe
@@ -1081,7 +1084,7 @@ tasks:
             - opkssh
             - lrzsz
             - tssh
-            - mosh-client
+            # - mosh-client
             - powershell
             # - PSWinUtil
             - chafa
@@ -1092,11 +1095,12 @@ tasks:
             # - cheat
             # - tldr
             - tealdeer
-            - kanata
-            - kanata-tray
+            # - kanata
+            # - kanata-tray
             - gdm257/mykeymap-beta
             # - komokana
             - gdm257/dotenvx
+            - ps-dotenv
             # - psfzf
             - starship
             # - oh-my-posh
@@ -1110,9 +1114,9 @@ tasks:
             # - nircmd-both
             # - hyperfine
             # - SilentCMD-Portable
-            - direnv
+            # - direnv
             # - flow-launcher
-            - rubick
+            # - rubick
             # - spc/capslock-plus
             # - keymouse
             # - vim-ahk
@@ -1123,7 +1127,6 @@ tasks:
             # - cht.sh
             # - tgpt
             # - sgpt
-            # - ps-dotenv
             # - envelope
             # - olivetin
             # - maye
@@ -1262,10 +1265,10 @@ tasks:
             # - kustomize
             - helm
             - helmfile
-            - kcl
+            # - kcl
             # - autok3s
-            - k3sup
-            - k3d
+            # - k3sup
+            # - k3d
             # - rancher-desktop
             # - minikube
             # - kind
@@ -1282,21 +1285,21 @@ tasks:
             - kubectx
             # - kubecolor
             # - kubectl-ai
-            - kubeconform
-            - k8sgpt
+            # - kubeconform
+            # - k8sgpt
             - kubevpn
-            - cilium-cli
+            # - cilium-cli
             # - istioctl
             # - kwok
             # - kubeshark
             # - kops
             # - main/flux
-            - argocd
-            - argocd-autopilot
+            # - argocd
+            # - argocd-autopilot
             # - tsuru
-            - velero
-            - cmctl
-            - korb
+            # - velero
+            # - cmctl
+            # - korb
             # - wsl2-distro-manager
             # - WsaToolbox
             # - wsldl
@@ -1307,7 +1310,7 @@ tasks:
             # - WSABuildsWindows11
             # - wsl-centos-7
             # - wsl-centos-8
-            - nixos-wsl
+            # - nixos-wsl
             - devpod
 
   install:curated-list:toolbox:

@@ -158,8 +158,8 @@
   </Toolbars>
   <MainWindow>
     <Position Save="True">
-      <Left>638</Left>
-      <Top>202</Top>
+      <Left>268</Left>
+      <Top>282</Top>
       <Width>1105</Width>
       <Height>676</Height>
       <PixelsPerInch>120</PixelsPerInch>
@@ -614,6 +614,8 @@
     <HotDir Name="k8slens" Path="C:\home\default\.k8slens"/>
     <HotDir Name="LM Studio" Path="C:\home\default\AppData\Roaming\LM Studio"/>
     <HotDir Name="LM Studio Models" Path="C:\home\default\.lmstudio"/>
+    <HotDir Name="mise" Path="C:\home\default\.config\mise"/>
+    <HotDir Name="mise shims" Path="C:\Users\demo\AppData\Local\mise\shims"/>
     <HotDir Name="mambaforge" Path="C:\home\default\mambaforge\envs"/>
     <HotDir Name="micromamba" Path="C:\home\default\micromamba\envs"/>
     <HotDir Name="miniconda" Path="C:\Users\demo\miniconda3\envs"/>
@@ -694,6 +696,7 @@
     <HotDir Name="eudic" Path="C:\home\default\AppData\Roaming\Francochinois\eudic"/>
     <HotDir Name="Fonts" Path="C:\Users\demo\AppData\Local\Microsoft\Windows\Fonts"/>
     <HotDir Name="gpg" Path="C:\home\default\AppData\Roaming\gnupg"/>
+    <HotDir Name="git" Path="C:\home\default\.config\git"/>
     <HotDir Name="gita" Path="C:\home\default\.config\gita"/>
     <HotDir Name="git-sync-config" Path="C:\home\default\.config\git-sync"/>
     <HotDir Name="iSlide" Path="C:\home\default\AppData\Roaming\iSlide"/>
@@ -726,6 +729,8 @@
     <HotDir Name="crush" Path="C:\Users\demo\AppData\Local\crush"/>
     <HotDir Name="codex" Path="C:\Users\demo\.codex"/>
     <HotDir Name="dotenvx" Path="C:\home\default\AppData\Roaming\dotenvx"/>
+    <HotDir Name="direnv" Path="C:\home\default\.config\direnv"/>
+    <HotDir Name="direnv-allow" Path="C:\home\default\.local\share\direnv"/>
     <HotDir Name="envelope" Path="C:\home\default\.config"/>
     <HotDir Name="FirPE" Path="E:\FirPE"/>
     <HotDir Name="kanata-tray" Path="C:\Users\demo\AppData\Roaming\kanata-tray"/>
