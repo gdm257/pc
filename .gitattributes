@@ -1,9 +1,17 @@
-*.reg text eol=crlf
+*.reg text eol=crlf working-tree-encoding=UTF-16LE-BOM
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.sh text eol=lf
 *.txt text eol=lf
 *.md text eol=lf
 *.json text eol=lf
 *.yaml text eol=lf
 *.yml text eol=lf
+*.py text eol=lf
+*.toml text eol=lf
+*.ini text eol=lf
+*.cfg text eol=lf
+*.xml text eol=lf
 *.png binary
 *.jpg binary
 *.pdf binary
