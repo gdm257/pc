@@ -1,0 +1,9 @@
+[project]
+name = "dotfiles"
+version = "0.1.0"
+description = "dotfiles"
+readme = "README.md"
+requires-python = ">=3.7"
+dependencies = [
+    "dotbot>=1.23.1",
+]
